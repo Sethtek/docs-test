@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Test docusaurus website',
-  tagline: 'This would be pretty cool if I could just figure it out!',
+  title: 'Sethtek Sandbox doccu test',
+  tagline: 'This would be pretty cool if I could just figure it out! ITS WORKING!!! 😁',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://sethtek.net',
+  url: 'https://sandbox.sethtek.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
